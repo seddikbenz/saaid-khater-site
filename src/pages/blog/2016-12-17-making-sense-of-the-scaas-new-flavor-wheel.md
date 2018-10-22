@@ -1,11 +1,12 @@
 ---
 templateKey: blog-post
 title: كتاب نظرية الفستق
-date: 2016-12-17T15:04:10.000Z
+date: 2018-10-22T14:04:10.000Z
 description: 'كتاب نظرية الفستق '
 tags:
-  - flavor
-  - tasting
+  - كتاب نظرية الفستق
+  - مطالعة
+  - التنمية البشرية
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
